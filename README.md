@@ -4,7 +4,7 @@
 This project provides a comprehensive analysis of pizza sales data to help a business understand its performance. It bridges the gap between raw data extraction using **SQL** and visual storytelling through **Excel Dashboards**.
 
 ## 📊 Interactive Dashboard
-![Dashboard](Dashboard.jpg)
+![Pizza Sales Dashboard](Dashboard.jpg)
 
 ## 🛠️ Tools Used
 * **SQL Server:** For data querying and KPI calculation.
